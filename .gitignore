@@ -1,6 +1,6 @@
 # Ignoring everything in the images folder
 
-  images/
+  images/*
 
 # Ignoring everything that has an 'ignore' in the name 
 
